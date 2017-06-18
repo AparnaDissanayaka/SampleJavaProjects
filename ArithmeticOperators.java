@@ -20,6 +20,16 @@ public class ArithmeticOperators{
 		System.out.println("d1*d2="+(d1*d2));
 		System.out.println("d1/d2="+(d1/d2));
 		System.out.println("d1%d2="+(d1%d2));
+		
+		System.out.println();
+		float f1=25.25463;
+		float f2=45.23654;
+		System.out.println("f1="+f1+ "f2="+f2+);
+		System.out.println("f1+f2="+(f1+f2));
+		System.out.println("f1-f2="+(f1-f2));
+		System.out.println("f1*f2="+(f1*f2));
+		System.out.println("f1/f2="+(f1/f2));
+		System.out.println("f1%f2="+(f1%f2));
 
 		
 	}
