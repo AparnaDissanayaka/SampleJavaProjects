@@ -34,6 +34,12 @@ public class ArrayDemo{
 		ages[3][2]=32;
 		ages[3][3]=33;
 		ages[3][4]=34;
+		
+		ages[4][0]=30;
+		ages[4][1]=31;
+		ages[4][2]=32;
+		ages[4][3]=33;
+		ages[4][4]=34;
 
 
 		System.out.print(ages[0][0]+"	");
@@ -59,5 +65,11 @@ public class ArrayDemo{
 		System.out.print(ages[3][2]+"	");
 		System.out.print(ages[3][3]+"	");
 		System.out.println(ages[3][4]+"	");
+		
+		System.out.print(ages[4][0]+"	");
+		System.out.print(ages[4][1]+"	");
+		System.out.print(ages[4][2]+"	");
+		System.out.print(ages[4][3]+"	");
+		System.out.println(ages[4][4]+"	");
 	}
 }
